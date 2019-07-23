@@ -1,0 +1,2 @@
+# WebSvcTest
+simple asmx
